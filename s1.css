@@ -1,0 +1,13 @@
+body
+{
+	background-image: url(bg2.jpg);
+	background-size: cover;
+}
+
+.profile
+{
+	height: 150px;
+	width: 170px;
+	margin-top: 5px;
+	box-shadow: 5px 5px grey;
+}
